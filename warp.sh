@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# https://github.com/P3TERX/warp.sh
+# https://github.com/Port-Technology/warp.sh/blob/main/warp.sh
 # Description: Cloudflare WARP Installer
 # System Required: Debian, Ubuntu, Fedora, CentOS, Oracle Linux, Arch Linux
 # Version: 1.0.40_Final
